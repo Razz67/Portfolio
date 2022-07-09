@@ -10,7 +10,7 @@
 body {
     font-family: 'Open Sans', serif;
     padding-top: 54px;
-    color: #868e96
+    color: #868e96;
 }
 
 h1,
@@ -22,76 +22,76 @@ h6 {
     font-family: 'Saira Extra Condensed', serif;
     font-weight: 700;
     text-transform: uppercase;
-    color: #343a40
+    color: #343a40;
 }
 
 h1 {
     font-size: 6rem;
-    line-height: 5.5rem
+    line-height: 5.5rem;
 }
 
 h2 {
-    font-size: 3.5rem
+    font-size: 3.5rem;
 }
 
 .subheading {
     text-transform: uppercase;
     font-weight: 500;
     font-family: 'Saira Extra Condensed', serif;
-    font-size: 1.35rem
+    font-size: 1.35rem;
 }
 
 .list-social-icons a {
-    color: #495057
+    color: #495057;
 }
 
 .list-social-icons a:hover {
-    color: #bd5d38
+    color: #5d75ad;
 }
 
 .list-social-icons a .fa-lg {
-    font-size: 1.75rem
+    font-size: 1.75rem;
 }
 
 .list-icons {
-    font-size: 3rem
+    font-size: 3rem;
 }
 
 .list-icons .list-inline-item i:hover {
-    color: #bd5d38
+    color: #5d75ad;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
     font-weight: 600;
-    text-transform: uppercase
+    text-transform: uppercase;
 }
 
 section.resume-section {
     border-bottom: 1px solid #dee2e6;
     padding-top: 5rem !important;
-    padding-bottom: 5rem !important
+    padding-bottom: 5rem !important;
 }
 
 section.resume-section .resume-item .resume-date {
-    min-width: none
+    min-width: none;
 }
 
 
 
 .bg-primary {
-    background-color: #bd5d38 !important
+    background-color: #5d75ad !important;
 }
 
 .text-primary {
-    color: #bd5d38 !important
+    color: #5d75ad !important;
 }
 
 a {
-    color: #bd5d38
+    color: #5d75ad;
 }
 
 a:active,
 a:focus,
 a:hover {
-    color: #824027
+    color: #824027;
 }
