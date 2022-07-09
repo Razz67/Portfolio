@@ -1,5 +1,5 @@
 /* Imports */
-@import url(media_queries/gueries);
+@import url(queries.css);
 
 * {
     padding: 0;
